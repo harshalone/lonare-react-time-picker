@@ -23,9 +23,9 @@ A modern, lightweight React time picker component with a clean interface and Tai
 
 ## Preview
 
-![Time Picker Default View](/assets/images/1.png)
-![Time Picker Open State](/assets/images/2.png)
-![Time Picker Selection](/assets/images/3.png)
+![Time Picker Default View](https://raw.githubusercontent.com/harshalone/lonare-react-time-picker/main/assets/images/1.png)
+![Time Picker Open State](https://raw.githubusercontent.com/harshalone/lonare-react-time-picker/main/assets/images/2.png)
+![Time Picker Selection](https://raw.githubusercontent.com/harshalone/lonare-react-time-picker/main/assets/images/3.png)
 
 ## Installation
 
